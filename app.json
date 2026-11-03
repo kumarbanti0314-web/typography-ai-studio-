@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "TYPO AI STUDIO",
+    "slug": "typo-ai-studio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.bunty.typoaistudio",
+      "versionCode": 1,
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
